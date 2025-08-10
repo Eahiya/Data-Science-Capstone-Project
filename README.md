@@ -1,6 +1,6 @@
-#SpaceX Launch Success Prediction - IBM Data Science Capstone
+SpaceX Launch Success Prediction - IBM Data Science Capstone
 
-##Table of Contents:
+Table of Contents:
 
 Project Overview
 Business Problem
